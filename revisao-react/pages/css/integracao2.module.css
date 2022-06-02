@@ -1,0 +1,24 @@
+/* Seção 2 - Aula 25: Integração com CSS #02 */
+
+/* Colocar .module no nome do arquivo CSS para entender que o estilo é modularizado e não global */
+#integracao2 {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    font-weight: 700;
+}
+
+.vermelha {
+    color: red;
+}
+
+.azul {
+    color: blue;
+}
+
+.branca {
+    color: white;
+    background-color: #444;
+}

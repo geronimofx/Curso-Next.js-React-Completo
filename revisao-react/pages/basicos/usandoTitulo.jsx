@@ -1,4 +1,4 @@
-// Seção 2 - Aula 22: Propriedade Componente
+// Seção 2 - Aula 23: Propriedade Componente
 
 // importante o componente para dentro da página
 import Titulo from "../../components/Titulo";
