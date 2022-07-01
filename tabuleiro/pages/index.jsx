@@ -1,0 +1,11 @@
+// Seção 2 - Aula 30: Projeto Tabuleiro #03
+import Tabuleiro from '../components/Tabuleiro'
+import styles from '../styles/Home.module.css'
+
+export default function Home() {
+  return (
+    <div className={styles.container}>
+      <Tabuleiro/>
+    </div>
+  )
+}

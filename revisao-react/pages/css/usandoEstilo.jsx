@@ -1,4 +1,4 @@
-// Seção 2 - Aula 27: Aplicando EstiloCSS
+// Seção 2 - Aula 27: Aplicando Estilo CSS
 
 import Estilo from "../../components/Estilo";
 
